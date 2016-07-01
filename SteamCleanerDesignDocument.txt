@@ -1,4 +1,22 @@
 ﻿Steam Cleaner Design Document
 
 
-        Game Theme - In a steampunk world, a cyborg janitor’s job is to clean the filthy steampunk slums. One arm is a machine that shoots soap and or other cleaning supplies to clean the filth. In the slums of this world the pollution has started to come alive and are called sludgers. If cleaners like him don’t do their job, the world will be overcome by the nasty sludgers.
+        Game Theme - In a steampunk world, a cyborg janitor’s job is to clean the filthy steampunk slums. 
+One arm is a machine that shoots soap and or other cleaning supplies to clean the filth. 
+In the slums of this world the pollution has started to come alive and are called sludgers. 
+If cleaners like him don’t do their job, the world will be overcome by the nasty sludgers.
+
+Cleaning Product Puns
+Floorox (clorox)
+eagle (dove)
+sword (axe)
+waves (tide)
+whisper (shout)
+francis (ajax(shout out to deadpool))
+truesol (lysol)
+
+weapons
+soap
+bathbombs
+mop
+broom
