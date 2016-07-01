@@ -14,9 +14,11 @@ waves (tide)
 whisper (shout)
 francis (ajax(shout out to deadpool))
 truesol (lysol)
+filthx/dirtx (germx)
 
 weapons
-soap
-bathbombs
-mop
-broom
+soap (bullets)
+bathbombs (explosives)
+mop (trips enemies)
+push broom (pushes enemies away or off ledges)
+hand sanatizer (treat is like fire)
